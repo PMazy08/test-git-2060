@@ -6,4 +6,4 @@ function sayHello(name) {
 }
 
 // เรียกใช้ฟังก์ชัน
-console.log(sayHello("Alice"));
+console.log(sayHello("palm"));
